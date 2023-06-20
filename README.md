@@ -14,5 +14,5 @@
 </a>
 </div>
 
-  <img height="170" width="full" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhoNXptdnluYWw0bWVjZ2NvOHk0NnlubmgxZjMycGZkeGFhaHN3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"/>
+  <img height="270" width="full" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhoNXptdnluYWw0bWVjZ2NvOHk0NnlubmgxZjMycGZkeGFhaHN3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"/>
 
