@@ -1,5 +1,5 @@
 <p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=170&section=header&text=Abdul-kabugu&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=120&section=header&text=Abdul-kabugu&fontSize=50" />
 </p>
   <h1 align="center">Let's connect and have a chat </h1>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
