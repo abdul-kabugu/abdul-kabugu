@@ -19,25 +19,23 @@
 
  ```yaml
 *👨🏻‍💻  A Little Bit About Me and My Interests
-name: Piyush Malhotra
-located_in: Montreal, Quebec
+
+name: Abdul kabugu
+located_in: Daresalaam, Tanzania
 current_job: Full Stack Developer
 education:
   [
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
   ]
-company: Soulber
+company: frentube
 
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
+    "AI/ML",
+     "UI/UX",
+    "Blockchain",
+    "Web3",
   ]
 technical_background:
   [
